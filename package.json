@@ -1,0 +1,7 @@
+{
+  "type":"commonjs",
+  "dependencies": {
+    "@truffle/contract": "^4.3.18",
+    "web3": "^1.8.2"
+  }
+}
