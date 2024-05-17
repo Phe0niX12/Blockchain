@@ -1,4 +1,4 @@
-ganache-cli
-truffle compile
-truffle migrate
+ganache-cli/n
+truffle compile/n
+truffle migrate/n
 node <runnable file>
